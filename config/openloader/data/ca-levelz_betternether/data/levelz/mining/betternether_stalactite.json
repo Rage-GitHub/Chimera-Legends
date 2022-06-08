@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "level": 15,
+    "block": [
+        "betternether:netherrack_stalactite",
+        "betternether:glowstone_stalactite",
+        "betternether:basalt_stalactite",
+        "betternether:blackstone_stalactite",
+        "betternether:bone_stalactite" 
+    ]
+}

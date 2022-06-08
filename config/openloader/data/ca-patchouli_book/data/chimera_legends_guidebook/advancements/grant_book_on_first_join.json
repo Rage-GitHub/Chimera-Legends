@@ -1,0 +1,12 @@
+{
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "rewards": {
+    "loot": [
+      "chimera_legends_guidebook:grant_book_on_first_join"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "patchouli:shapeless_book_recipe",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:feather"
+    },
+    {
+      "item": "minecraft:book"
+    }
+  ],
+  "book": "patchouli:chimera_legends_guidebook"
+}

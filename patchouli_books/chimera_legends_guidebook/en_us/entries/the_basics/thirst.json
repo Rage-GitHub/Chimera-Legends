@@ -1,0 +1,75 @@
+{
+    "name": "Managing your Thirst",
+    "icon": "dehydration:leather_flask",
+    "category": "patchouli:the_basics",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Thirst is a huge factor in this modpack and should not be taken with a grain of salt. These factors, if not attended to, can have serious mitigating effects or even fatal consequences.$(br2)Let's begin by understanding the basics of what Thirst is and can do to you."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "While Thirst may seem an easy thing to manage by just drinking lots of it from a river or water source, it's not. When you drink from a source that is out in the open like a river or in a cave, it can be dirty and provide a Thirst effect, negating all of the water you just drank.$(br2)To counter this, you have to boil the water in order to safely drink it without risking losing any of it that you just drank."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Drinking Safely",
+            "text": "To drink water safely, you first need to boil it using a Cauldron and Campfire. These are simple and easily obtainable resources you can get right away in the beginning of the game.$(br2)You can do this by craftiong a Cauldron and Campfire with these simple recipes. After you've made the Campfire Cauldron, place it over a campfire and dump water in it."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "dehydration:copper_cauldron",
+            "recipe2": "dehydration:campfire_cauldron"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Flask Types",
+            "text": "You can easily manage your Thirst by creating a Flask, which can hold up to a certain amount of water depending on how upgraded it is. There are 5 different types of flasks you can get, all made with the vanilla resources in Minecraft.$(br2)You can see the available types of Flasks to the right of this page."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "dehydration:leather_flask",
+            "text": "The Leather Flask is the most basic version of the Flask you can get, containing only two units of water to hold. While still being useful, it can be tedious to manage water with this."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "dehydration:iron_leather_flask",
+            "text": "The Iron Leather flask is the next upgrade to the Leather Flask, providing an additional unit of water storage. This is an ideal solution to carry the right amount of water while exploring."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "dehydration:golden_leather_flask",
+            "text": "Next is the Gold Leather flask, which has a total of 4 units of water storage. A great tool for exploring long distances without having to boil more water down."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "dehydration:diamond_leather_flask",
+            "text": "A great and useful upgrade to the Gold, which provides 5 total units of water storage. Enough to get through the Nether and back."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "dehydration:netherite_leather_flask",
+            "text": "No different than the previous flask, other than you can say it was built using Netherite."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Crafting A Flask",
+            "text": "Crafting these is pretty simple and only requires a few resources that can be found in the Vanilla minecraft world.$(br2)Locate to the next following pages to find recipes for the corresponding Flasks."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "dehydration:leather_flask",
+            "recipe2": "dehydration:iron_leather_flask"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "dehydration:golden_leather_flask",
+            "recipe2": "dehydration:diamond_leather_flask"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "dehydration:netherite_leather_flask",
+            "text": "The Netherite Leather Flask requires you to upgrade the Diamond Flask via a Smithing Table. This requires only one Netherite ingot and can be done with any Smithing Table."
+        }
+    ]
+}

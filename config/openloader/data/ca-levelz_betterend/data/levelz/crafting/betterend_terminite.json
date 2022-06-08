@@ -1,0 +1,27 @@
+{
+    "replace": false,
+    "level": 24,
+    "skill": "smithing",
+    "item": [
+        "betterend:terminite_block",
+        "betterend:terminite_nugget",
+        "betterend:terminite_anvil",
+        "betterend:terminite_forged_plate",
+        "betterend:terminite_helmet",
+        "betterend:terminite_chestplate",
+        "betterend:terminite_leggings",
+        "betterend:terminite_boots",
+        "betterend:terminite_sword",
+        "betterend:terminite_pickaxe",
+        "betterend:terminite_axe",
+        "betterend:terminite_hoe",
+        "betterend:terminite_hammer",
+        "betterend:terminite_sword_handle",
+        "betterend:terminite_sword_blade",
+        "betterend:terminite_hoe_head",
+        "betterend:terminite_axe_head",
+        "betterend:terminite_pickaxe_head",
+        "betterend:terminite_shovel_head",
+        "betterend:terminite_shovel"
+    ]
+}

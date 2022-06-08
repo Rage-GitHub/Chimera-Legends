@@ -1,0 +1,27 @@
+{
+    "replace": false,
+    "level": 12,
+    "skill": "smithing",
+    "item": [
+        "betterend:thallasium_block",
+        "betterend:thallasium_nugget",
+        "betterend:thallasium_anvil",
+        "betterend:thallasium_forged_plate",
+        "betterend:thallasium_helmet",
+        "betterend:thallasium_chestplate",
+        "betterend:thallasium_leggings",
+        "betterend:thallasium_boots",
+        "betterend:thallasium_sword",
+        "betterend:thallasium_pickaxe",
+        "betterend:thallasium_axe",
+        "betterend:thallasium_hoe",
+        "betterend:thallasium_hammer",
+        "betterend:thallasium_sword_handle",
+        "betterend:thallasium_sword_blade",
+        "betterend:thallasium_hoe_head",
+        "betterend:thallasium_axe_head",
+        "betterend:thallasium_pickaxe_head",
+        "betterend:thallasium_shovel_head",
+        "betterend:thallasium_shovel"
+    ]
+}

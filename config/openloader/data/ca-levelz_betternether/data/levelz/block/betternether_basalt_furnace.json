@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "smithing",
+    "level": 3,
+    "block": "minecraft:custom_block",
+    "object": "betternether:basalt_furnace"
+}

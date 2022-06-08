@@ -1,0 +1,51 @@
+type = hud
+
+customization-meta {
+  randomgroup = 1
+  keepaspectratio = true
+  backgroundimage = resources/Images/loading-screen.png
+  autoscale_baseheight = 1440
+  renderorder = foreground
+  autoscale_basewidth = 2560
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  visible = false
+  action = editlogo
+}
+
+customization {
+  orientation = mid-centered
+  visible = false
+  x = 0
+  action = editprogressbar
+  y = 65
+  barcolor = 
+}
+
+customization {
+  orientation = top-left
+  x = -1
+  width = 1282
+  actionid = a556e23e-8a51-4af0-9e8e-c4108b939b871654220312840
+  y = 700
+  action = addcustomprogressbar
+  height = 20
+  direction = right
+  barcolor = #ffffff
+  backgroundcolor = #5c5c5c80
+}
+
+customization {
+  path = resources/Images/logo.png
+  orientation = mid-centered
+  x = -13
+  width = 1047
+  action = addtexture
+  actionid = a268e2a2-d4b9-436c-99da-dfb28acfed371654561194527
+  y = -3
+  height = 591
+}
+

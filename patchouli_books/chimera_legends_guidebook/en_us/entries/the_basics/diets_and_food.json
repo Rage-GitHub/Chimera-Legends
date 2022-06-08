@@ -1,0 +1,36 @@
+{
+    "name": "Diets and Food",
+    "icon": "minecraft:beef",
+    "category": "patchouli:the_basics",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Food is another major factor, not just in Vanilla MC but the modpack as well.$(br2)However, the modpack adds a bit of 'Spice' to the Hunger mechanics, aiming to make diet needs differnet and food supplements vary. Keep in mind, eating one food won't help your hunger in staying consistent."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "To counter this, you need to eat various types of foods that range from Vegetables, Meats and Fruits. These can all be done by using the advanced farming system implemented into this modpack.$(br2)Luckily, farming isn't too hard in this modpack and can be done with a wide variety of means, with hundreds of plants to choose from and many different types of animals."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Carnivores",
+            "text": "There's a various amount of ways of maintaing your hunger and depending on your Origin you may need to focus on a specific type of food category to eat from.$(br2)Carnivores are meat eaters and can only eat meat while Herbiovres can only eat plants. Omnivores, however can eat anything."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:cow",
+            "scale": "0.6",
+            "text": "The most commmon and reliable food source, a cow which provides beef when killed and can be turned into Steak."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Omnivores",
+            "text": "Herbivores have a variety of platns to choose from when it comes to farming. While there are hundreds of plants, they won't provide an entirely sufficient amount of satiation to hunger.$(br2)This is where farming comes into play. The farming mechancis have been overhauled with a few mods, allowing you to make advanced recipes and ingredients for immmaculate dishes."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "farmersdelight:stuffed_pumpkin_block",
+            "text": "Crafting an abundance of veggies and fruits can make an amazing dish that includes a variety of plants you've manifested in your farm. This can provide unique bonuses as well as an abundance to your satiation.$(br2)For more information on crops and food items, check out the Croptopia book."
+        }
+    ]
+}

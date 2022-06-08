@@ -1,0 +1,28 @@
+{
+    "replace": false,
+    "level": 30,
+    "skill": "smithing",
+    "item": [
+        "betterend:aeternium_block",
+        "betterend:aeternium_anvil",
+        "betterend:aeternium_forged_plate",
+        "betterend:aeternium_helmet",
+        "betterend:aeternium_chestplate",
+        "betterend:aeternium_leggings",
+        "betterend:aeternium_boots",
+        "betterend:elytra_armored",
+        "betterend:aeternium_sword",
+        "betterend:aeternium_pickaxe",
+        "betterend:aeternium_axe",
+        "betterend:aeternium_hoe",
+        "betterend:aeternium_hammer",
+        "betterend:aeternium_sword_handle",
+        "betterend:aeternium_sword_blade",
+        "betterend:aeternium_hoe_head",
+        "betterend:aeternium_axe_head",
+        "betterend:aeternium_pickaxe_head",
+        "betterend:aeternium_shovel_head",
+        "betterend:aeternium_hammer_head",
+        "betterend:aeternium_shovel"
+    ]
+}

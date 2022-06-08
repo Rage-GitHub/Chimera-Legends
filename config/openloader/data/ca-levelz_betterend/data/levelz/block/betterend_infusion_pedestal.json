@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "alchemy",
+    "level": 20,
+    "block": "minecraft:custom_block",
+    "object": "betterend:infusion_pedestal"
+}

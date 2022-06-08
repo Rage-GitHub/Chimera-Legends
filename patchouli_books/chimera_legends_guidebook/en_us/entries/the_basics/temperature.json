@@ -1,0 +1,32 @@
+{
+    "name": "Temperature",
+    "icon": "environmentz:heating_stones",
+    "category": "patchouli:the_basics",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Temperature is a crucial factor to surviving mother nature and her wraith, as unbalances in your body temp can become fatal.$(br2)For this exact reason, managing your temperature in cold AND warm environments is crucial. Let's take a look at managing your body temp."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Cold Weather",
+            "text": "Cold weather is a tough natural occurence to get through and will surely make you wanting for warmth again. To counter this, some methods can be used such as a campfire, lava or specific clothing. To get this right, we need to make clothing to fit the cold weather.$(br2)See following pages for crafitng recipes on cold clothing."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmentz:wolf_helmet",
+            "recipe2": "environmentz:wolf_chestplate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmentz:wolf_leggings",
+            "recipe2": "environmentz:wolf_boots"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:wolf",
+            "scale": "0.6",
+            "text": "Wolf Pelts can be collected by slaying Wolves found in the Wilderness."
+        }
+    ]
+}

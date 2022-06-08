@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "level": 26,
+    "skill": "smithing",
+    "item": [
+        "betterend:crystalite_helmet",
+        "betterend:crystalite_chestplate",
+        "betterend:crystalite_leggings",
+        "betterend:crystalite_boots",
+        "betterend:elytra_crystalite"
+    ]
+}

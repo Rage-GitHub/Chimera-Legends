@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "defense",
+    "level": 21,
+    "item": "minecraft:custom_item",
+    "object": "betternether:cincinnasite_leggings"
+}

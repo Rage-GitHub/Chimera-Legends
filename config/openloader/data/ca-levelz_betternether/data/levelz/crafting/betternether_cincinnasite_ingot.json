@@ -1,0 +1,23 @@
+{
+    "replace": false,
+    "level": 18,
+    "skill": "smithing",
+    "item": [
+        "betternether:cincinnasite_ingot",
+        "betternether:cincinnasite_chestplate",
+        "betternether:cincinnasite_leggings",
+        "betternether:cincinnasite_helmet",
+        "betternether:cincinnasite_boots",
+        "betternether:cincinnasite_pickaxe",
+        "betternether:cincinnasite_axe",
+        "betternether:cincinnasite_shovel",
+        "betternether:cincinnasite_hoe",
+        "betternether:cincinnasite_sword",
+        "betternether:cincinnasite_anvil",
+        "betternether:cincinnasite_forge",
+        "betternether:cincinnasite_chestplate",
+        "betternether:cincinnasite_leggings",
+        "betternether:cincinnasite_helmet",
+        "betternether:cincinnasite_boots"
+    ]
+}

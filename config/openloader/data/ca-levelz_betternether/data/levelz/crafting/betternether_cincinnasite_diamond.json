@@ -1,0 +1,23 @@
+{
+    "replace": false,
+    "level": 20,
+    "skill": "smithing",
+    "item": [
+        "medievalweapons:cincinnasite_diamond_javelin",
+        "medievalweapons:cincinnasite_diamond_lance",
+        "medievalweapons:cincinnasite_diamond_mace",
+        "medievalweapons:cincinnasite_diamond_francisca",
+        "medievalweapons:cincinnasite_diamond_small_axe",
+        "medievalweapons:cincinnasite_diamond_big_axe",
+        "medievalweapons:cincinnasite_diamond_healing_staff",
+        "medievalweapons:cincinnasite_diamond_long_sword",
+        "medievalweapons:cincinnasite_diamond_ninjato",
+        "medievalweapons:cincinnasite_diamond_dagger",
+        "betternether:cincinnasite_axe_diamond",
+        "betternether:cincinnasite_pickaxe_diamond",
+        "betternether:cincinnasite_shovel_diamond",
+        "betternether:cincinnasite_knife_diamond",
+        "betternether:cincinnasite_sword_diamond",
+        "betternether:cincinnasite_hoe_diamond"
+    ]
+}

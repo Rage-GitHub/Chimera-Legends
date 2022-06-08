@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "mining",
+    "level": 24,
+    "item": "minecraft:custom_item",
+    "object": "betternether:cincinnasite_pickaxe_diamond"
+}

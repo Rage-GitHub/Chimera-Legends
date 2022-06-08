@@ -1,0 +1,22 @@
+{
+    "name": "Leveling Your Skills",
+    "icon": "minecraft:experience_bottle",
+    "category": "patchouli:the_basics",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Skills and Attributes are another major factor in your progression of this modpack and require you to progress in more challenges. Doing so can contribute benefits and more abilities to your character, such as increased movement speed, jump height, loot rarity chances, etc."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "While you do still have the default Minecraft XP bar at the bottom, this also contributes to your actual levels for skills and attributes. Increasing and gaining for XP from activities increases your level for skills as well."
+        },
+        {
+            "type": "patchouli:image",
+            "title": "Accessing Skills Tab",
+            "images": ["chivalric_adventures_resources:assets/patchouli_images/levels_tab.png"],
+            "border": "true",
+            "text": "This can be accessed via the tab to the left of your inventory."
+        }
+    ]
+}

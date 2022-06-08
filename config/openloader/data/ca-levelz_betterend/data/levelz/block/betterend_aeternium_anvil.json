@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "smithing",
+    "level": 30,
+    "block": "minecraft:custom_block",
+    "object": "betterend:aeternium_anvil"
+}
